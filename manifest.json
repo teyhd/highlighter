@@ -1,0 +1,21 @@
+{
+    "name": "Языковые манипуляции: уровень слова и словосочетания", 
+    "version": "2.2.8",
+    "description": "ЛИНГВИСТИЧСКИЕ СРЕДСТВА ВЕДЕНИЯ ИНФОРМАЦИОННОЙ ВОЙНЫ (на материале СМИ России, КНР, Великобритании и США)",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "dictionary.js",
+                "content.js"                
+            ]
+        }
+    ]
+}
