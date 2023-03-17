@@ -35,7 +35,7 @@ var words = [
   "terrifying brutality",
   "mow down",
   "litter",
-  "assault",
+  "assault", 
   "enormous",
   "full-scale invasion",
   "drum up",

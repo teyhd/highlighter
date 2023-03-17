@@ -10,4 +10,4 @@ words.forEach(word => {
 let regex = new RegExp(myPhrase, "gi");
 elements.forEach(element => {
     element.innerHTML = element.innerHTML.replace(regex, '<span style="background-color: #f38181;text-decoration: underline dashed red;">$&</span>');
-});
+}); 
