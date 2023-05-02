@@ -1,3 +1,4 @@
+//ExtenWordHighlighting 
 // Выбираем все элементы на странице, которые содержат текст
 const elements = document.querySelectorAll('*:not(script):not(style):not(meta)');
 
