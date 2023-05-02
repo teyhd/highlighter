@@ -30,7 +30,7 @@ var words = ["sanctions hammer",
 "catastrophic attempt to capture Vuhledar",  "катастрофическая попытка захвата Угледара",
 "occupied Crimea",  "оккупировали Крым",  "Vladimir Putin’s bellicose speech",
 "воинственная речь Владимира Путина",  "everlasting war",  "вечная война", 
-"Russian incursions",  "вторжения России",  "low regard for the value of its soldiers’ lives"
+"Russian incursions",  "вторжения России",  "low regard for the value of its soldiers’ lives",
 "обесценивание жизни своих солдат",  "The novices",  "новички",  "invader’s artillery",
 "артиллерия захватчиков",  "handful of buildings in mangled ruin",  
 "горстка искореженных зданий",  "a victim of Russia’s war", 
