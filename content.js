@@ -1,7 +1,7 @@
 //ExtenWordHighlighting 
 // Выбираем все элементы на странице, которые содержат текст
 const elements = document.querySelectorAll('*:not(script):not(style):not(meta)');
-
+console.log(words.length)
 //Получаем регулярное выражение из массива words
 let myPhrase = `(rape)`;
 words.forEach(word => {
